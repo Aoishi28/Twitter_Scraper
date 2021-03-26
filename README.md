@@ -4,4 +4,8 @@ Too lazy to browse through Twitter and get the trending hashtags? Well as a code
 
 The following browser opens :
 
-![](Trending_Hashtags_file.png)
+![](Browser.png)
+
+The file created is :
+
+![](Trending_hashtags_file.png)
